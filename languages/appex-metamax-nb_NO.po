@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Appex MetaMax\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-16 11:19+0000\n"
+"PO-Revision-Date: 2016-09-16 11:22+0000\n"
+"Last-Translator: appexdev <wp@appex.no>\n"
+"Language-Team: Norwegian (Bokmål)\n"
+"Language: nb-NO\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: nb_NO\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: appex-metamax.php:98
+msgid "MetaMax loves meta tags! One-click install and configure."
+msgstr ""
+"MetaMax elsker metatagger! Et klikks installering, ingen konfigurasjon "
+"nødvendig."
+
+#: appex-metamax.php:300
+msgid "MetaMax all done. Now drink coffee!"
+msgstr "MetaMax er ferdig. På tide med en kopp kaffe!"
+
+#. Name of the plugin
+msgid "MetaMax"
+msgstr "MetaMax"
+
+#. Description of the plugin
+msgid ""
+"MetaMax automagically inserts meta tags in your html to make your site more "
+"SEO friendly."
+msgstr ""
+"MetaMax genererer metatagger på sidene dine og gjør dem mer SEO vennlige."
+
+#. Author of the plugin
+msgid "Appex AS"
+msgstr "Appex AS"
+
+#: appex-metamax.php:51
+msgid ""
+"MetaMax has detected that you have Yoast SEO enabled. Yoast and MetaMax does "
+"not play nice together. MetaMax is disabled while Yoast is actice."
+msgstr ""
+"MetaMax har detektert at Yoast SEO kjører på denne siden. MetaMax og Yoast "
+"har overlappende funksjonalitet og Metamax vil derfor forbli deaktivert så "
+"lenge Yoast er aktiv."
